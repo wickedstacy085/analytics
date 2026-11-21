@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Анастасия Смирнова"
+  description: "Аналитик данных: маркетинг и продукт — SQL, Python, A/B-тесты, Power BI"
+  site-url: "https://wickedstacy085.github.io/analytics"
+  repo-url: "https://github.com/wickedstacy085/analytics"
+  open-graph: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Главная
+      - href: cv.qmd
+        text: Резюме
+    right:
+      - href: "https://wickedstacy085.github.io/"
+        text: "Эконометрика и макро ↗"
+      - icon: github
+        href: "https://github.com/wickedstacy085"
+        aria-label: GitHub
+      - icon: envelope
+        href: "mailto:anastasiasmirnova085@gmail.com"
+        aria-label: Email
+  page-footer:
+    left: "Анастасия Смирнова, 2026"
+    right: "[Исходный код сайта](https://github.com/wickedstacy085/analytics)"
+
+format:
+  html:
+    theme:
+      light: [flatly, assets/custom.scss]
+      dark: [darkly, assets/custom.scss]
+    toc: false
+    lang: ru
