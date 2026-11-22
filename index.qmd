@@ -49,11 +49,29 @@ toc: false
 [Python · SRM · мощность и MDE · бутстрап · CUPED · поправка Холма · сегменты]{.tags}
 :::
 :::
+
+::: {.card-project}
+![](assets/ecommerce-sql.png){fig-alt="Тепловая карта retention когорт: почти все значения меньше 1%"}
+
+::: {.body}
+### [Когорты и юнит-экономика на SQL](https://wickedstacy085.github.io/ecommerce-sql/)
+
+96 тыс. заказов маркетплейса Olist: растёт ли бизнес за счёт постоянных клиентов и где теряет деньги.
+
+[Повторно покупают 3% клиентов — CAC должен окупаться первым заказом; 7% опоздавших заказов дают треть негативных отзывов.]{.result}
+
+::: {.links}
+[Отчёт](https://wickedstacy085.github.io/ecommerce-sql/) [Дашборд](https://wickedstacy085.github.io/ecommerce-sql/dashboard.html) [Код](https://github.com/wickedstacy085/ecommerce-sql)
+:::
+
+[SQL (DuckDB) · оконные функции · когорты · LTV · RFM · Plotly-дашборд · витрина Power BI]{.tags}
+:::
+:::
 :::
 
 ## Инструменты
 
-- **SQL:** джойны, оконные функции, когорты
+- **SQL:** джойны, CTE, оконные функции, когорты и retention, DuckDB
 - **Python:** pandas, numpy, scipy, statsmodels, matplotlib, pytest
 - **Эксперименты:** дизайн теста, мощность и MDE, SRM, бутстрап, CUPED, множественные сравнения
 - **BI и отчёты:** Power BI, Excel (Power Query, XLOOKUP, сводные таблицы), Quarto, PowerPoint, think-cell
