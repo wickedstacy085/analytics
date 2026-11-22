@@ -3,6 +3,8 @@ title: "Резюме"
 toc: false
 ---
 
+[PDF](cv-product.pdf){.btn .btn-outline-secondary .btn-sm}
+
 **Анастасия Смирнова** · Аналитик данных: маркетинг и продукт\
 Москва · anastasiasmirnova085@gmail.com\
 [github.com/wickedstacy085](https://github.com/wickedstacy085) · [wickedstacy085.github.io/analytics](https://wickedstacy085.github.io/analytics)

@@ -10,7 +10,8 @@ toc: false
 в отчёты для клиентов и перераспределяю бюджеты между каналами по результатам кампаний.
 :::
 
-[Резюме](cv.qmd){.btn .btn-primary .btn-sm}
+[Резюме, PDF](cv-product.pdf){.btn .btn-primary .btn-sm}
+[Резюме на сайте](cv.qmd){.btn .btn-outline-secondary .btn-sm}
 [GitHub](https://github.com/wickedstacy085){.btn .btn-outline-secondary .btn-sm}
 [anastasiasmirnova085@gmail.com](mailto:anastasiasmirnova085@gmail.com){.btn .btn-outline-secondary .btn-sm}
 
